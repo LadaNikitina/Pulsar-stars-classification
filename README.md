@@ -1,4 +1,4 @@
-# projectAESC
+# Pulsars stars classification, AESC project
 
 This document is an article about project, the theme of which is "prediction of pulsar star". Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter.
 
